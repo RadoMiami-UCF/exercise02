@@ -4,7 +4,7 @@ public class Solution02 {
     public static void main(String[] args)
     {
         /*
-         *  UCF COP3330 Fall 2021 Assignment 2 Solution
+         *  UCF COP3330 Fall 2021 Assignment 1 Solution
          *  Copyright 2021 Kimari Guthre
          */
         /*Ask what's the input string
